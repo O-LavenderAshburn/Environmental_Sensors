@@ -17,7 +17,6 @@ below 100ms
 #### Tooling & Resources
 - C Language
 - Make
-- Bash Scripting
+- Bash Scripting ()
 - [RIOT OS](https://github.com/RIOT-OS/RIOT)
 - [FitIoTLabs](https://www.iot-lab.info/) 
-- Lots of coffee 
