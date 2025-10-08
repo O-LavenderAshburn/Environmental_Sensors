@@ -1,0 +1,2 @@
+make SENSOR_TYPE=0 APPLICATION=temp_sensor_1
+make SENSOR_TYPE=1 APPLICATION=hum_sensor_2
