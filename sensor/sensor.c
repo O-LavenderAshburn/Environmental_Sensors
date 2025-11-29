@@ -52,6 +52,8 @@ static int init_sensor(void)
 }
 
 
+
+//TODO: Make gatt_svr_chr_access_temperature & gatt_svr_chr_access_humidity as they are basically the same bar the sensor type use.
 /** Access callback for temperature characteristic */
 static int __attribute__((unused)) gatt_svr_chr_access_temperature(uint16_t conn_handle,
                                            uint16_t attr_handle,
